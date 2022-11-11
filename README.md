@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: projects of [Fullstack Modern Web Development](https://fullstackopen.com/en/#course-contents) taught by University of Helsinki.
 - 🌱 I’m currently learning [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/block-v1:HarvardX+CS50+X+type@sequential+block@3c550787b1d1470bbdba91d14392bd43/block-v1:HarvardX+CS50+X+type@vertical+block@ffc346411661409a901306ca7c2b7b54).
-- :cry: I've currently completed [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) and [JavaScrip Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) on [freeCodeCamp](https://www.freecodecamp.org/).
+- :cry: I've currently completed [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) and [JavaScrip Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) on [freeCodeCamp](https://www.freecodecamp.org/) :fire:.
 - 🤔 I’m looking for help with career mentorship.
 - 📫 How to reach me: email me at nguyenhue.se@gmail.com.
 - 😄 Pronouns: she/her
