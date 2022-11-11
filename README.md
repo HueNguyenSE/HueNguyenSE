@@ -1,5 +1,5 @@
 # Hue Nguyen
-:wave: Hi, I'm Hue. I am an self-taught software engineer.
+:wave: Hi, I'm Hue. I am a self-taught software engineer.
 
 # About Me
 
